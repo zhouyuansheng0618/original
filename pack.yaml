@@ -1,0 +1,18 @@
+---
+ref: original
+name: original
+description: Simple pack containing examples of sensor, rule, and action.
+keywords:
+    - original
+    - test
+version: 3.7.0
+python_versions:
+  - "3"
+
+dependencies:
+  - core
+author: ifthen, Inc.
+email: info@stackstorm.com
+contributors:
+  - "John Doe1 <john.doe1@gmail.com>"
+
